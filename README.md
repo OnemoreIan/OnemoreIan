@@ -9,11 +9,11 @@
 
 ---
 ###   Techs that I use
--  HTML  <img src="./src/html5.svg" alt='gif' width='50px' height="50px">
--  CSS  <img src="./src/css3.svg" alt='gif' width='50px' height="50px">
--  JS   <img src="./src/javascript.svg" alt='gif' width='50px' height="50px">
--  BOOTSTRAP    <img src="./src/bootstrap.svg" alt='gif' width='50px' height="50px">
--  ANGULAR  <img src="./src/angularjs.svg" alt='gif' width='50px' height="50px">
+-  HTML  <img src="./src/html5.svg" alt='html' width='30px' height="30px">
+-  CSS  <img src="./src/css3.svg" alt='css' width='30px' height="30px">
+-  JS   <img src="./src/javascript.svg" alt='js' width='30px' height="30px">
+-  BOOTSTRAP    <img src="./src/bootstrap.svg" alt='bootstrap' width='30px' height="30px">
+-  ANGULAR  <img src="./src/angularjs.svg" alt='angular' width='30px' height="30px">
 
 
 <details align='left'>
