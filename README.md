@@ -9,7 +9,7 @@
 
 ---
 ###   Techs that I use
--  HTML  <img src="./src/html.svg" alt='gif' width='50px' height="50px">
+-  HTML  <img src="./src/html5.svg" alt='gif' width='50px' height="50px">
 -  CSS  <img src="./src/css3.svg" alt='gif' width='50px' height="50px">
 -  JS   <img src="./src/javascript.svg" alt='gif' width='50px' height="50px">
 -  BOOTSTRAP    <img src="./src/bootstrap.svg" alt='gif' width='50px' height="50px">
