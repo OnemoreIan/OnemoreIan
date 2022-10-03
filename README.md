@@ -8,11 +8,10 @@
 </div>
 
 ---
-<div>
-    <h2>Techs that I use</h2>
-    - HTML
-    - CSS
-    - JS
-    - BOOTSTRAP
-    - ANGULAR
-</div>
+###Techs that I use
+- HTML
+- CSS
+- JS
+- BOOTSTRAP
+- ANGULAR
+
