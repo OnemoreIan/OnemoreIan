@@ -2,7 +2,7 @@
     <picture>
     <img src="./src/happy cat.gif" alt='gif' width='250px' height="200px">
     </picture>
-    <h1 align='center'> Hi I'm Ian and I'm a Web dev</h1>
+    <h1 align='center'> Hi I'm Ian and I'm a Frontend Web dev</h1>
     <h3>I really like the web, and how those it works so that's the reason that I start in these branch</h3>
     <h3>I work in many interesting projects and practice to improve my skills</h3>
 </div>
@@ -12,8 +12,8 @@
 -  HTML  <img src="./src/html5.svg" alt='html' width='30px' height="30px">    
 -  CSS  <img src="./src/css3.svg" alt='css' width='30px' height="30px">    
 -  JS   <img src="./src/javascript.svg" alt='js' width='30px' height="30px">    
--  BOOTSTRAP    <img src="./src/bootstrap.svg" alt='bootstrap' width='30px' height="30px">    
--  ANGULAR  <img src="./src/angularjs.svg" alt='angular' width='30px' height="30px">
+-  BOOTSTRAP 5   <img src="./src/bootstrap.svg" alt='bootstrap' width='30px' height="30px">    
+-  ANGULAR CLI  <img src="./src/angularjs.svg" alt='angular' width='30px' height="30px">
 
 
 
