@@ -31,6 +31,8 @@
 <details align='left'>
 <ul style="list-decoration: none;">
 <li>- <a href="https://github.com/OnemoreIan/YouTube-Downloader" color='white'; ">Youtube video Downloader - free of virus()</a></li>
-<li>- Coming soon - Exercise app</li>
+<li>- Coming soon - Storage SPA</li>
+<li>- Coming soon - DarkContent +18</li>
+<li>- Coming soon - Me</li>
 </ul>
 </details>
