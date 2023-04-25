@@ -36,7 +36,7 @@
 ## Best public projects
 
 - [Youtube video Downloader *outdated](https://github.com/OnemoreIan/YouTube-Downloader)
-- [Tiendita hecha en Vue 3 con api](https://tiendita-onemoreian.netlify.app/)
+- [Tiendita hecha en Vue 3 con api](https://github.com/OnemoreIan/Front-Tiendita)
 - [Portafolio](https://github.com/OnemoreIan/Me)
 - [Coming soon - DarkContent +18](#)
 
